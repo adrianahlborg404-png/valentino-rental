@@ -182,3 +182,7 @@ och modellnamn från raden, så att mailet blir tydligt för kunden.
 - Jag lärde mig också att godkännanden kräver en mottagare som kan ta emot
 Approvals, vilket är viktigt att tänka på om systemet ska användas mot externa
 kunder.
+
+---
+
+*Fler projekt finns på min [GitHub-profil](https://github.com/adrianahlborg404-png).*
